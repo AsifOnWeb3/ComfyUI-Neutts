@@ -22,7 +22,7 @@ Search `ComfyUI-NeuTTS` → Install.
 ### Manual
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_NAME/ComfyUI-NeuTTS
+git clone https://github.com/AsifOnWeb3/ComfyUI-NeuTTS
 cd ComfyUI-NeuTTS
 pip install -r requirements.txt
 ```
