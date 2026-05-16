@@ -1,0 +1,4 @@
+neutts
+soundfile
+numpy
+torch

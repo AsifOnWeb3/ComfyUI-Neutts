@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-NeuTTS"
+version = "1.0.0"
+description = "ComfyUI custom nodes for NeuTTS on-device TTS with voice cloning"
+license = { text = "Apache-2.0" }
+dependencies = ["neutts", "soundfile", "numpy", "torch"]
+
+[project.urls]
+Repository = "https://github.com/YOUR_NAME/ComfyUI-NeuTTS"
+
+[tool.comfy]
+PublisherId = "YOUR_NAME"
+DisplayName = "ComfyUI-NeuTTS"
+Icon = ""
